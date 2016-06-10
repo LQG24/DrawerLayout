@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawerLayout</string>
+    <string name="open_string">打开</string>
+    <string name="close_string">关闭</string>
+</resources>
